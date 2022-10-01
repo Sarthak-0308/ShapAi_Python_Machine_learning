@@ -20,6 +20,4 @@ or follow SHAPEAI on:
 <a href=
 "https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA">YouTube</a>
 </li>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
-  </li>
+<li><a href="https://github.com/shapeai">GitHub</a></li>
